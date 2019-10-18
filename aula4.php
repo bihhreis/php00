@@ -38,7 +38,7 @@
 
     <?php
     
-        if ($_POS) {
+        if ($_POST) {
         
             //Recebe dados do formulário
             $nome=$_POST['txtnome'];
